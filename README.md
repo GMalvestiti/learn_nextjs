@@ -1,1 +1,1 @@
-# learn_nextjs
+# Next.js React Foundations course
