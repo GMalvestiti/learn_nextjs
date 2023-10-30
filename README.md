@@ -1,1 +1,5 @@
-# Next.js React Foundations Course
+# Next.js Official Courses
+
+### React Foundations
+
+### Next.js
