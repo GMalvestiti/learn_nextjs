@@ -13,13 +13,13 @@
 
 ### [Next.js](https://nextjs.org/learn)
   - Chapter 01: Getting Started
-  - Chapter 02: 
-  - Chapter 03: 
-  - Chapter 04: 
-  - Chapter 05: 
-  - Chapter 06: 
-  - Chapter 07: 
-  - Chapter 08: 
+  - Chapter 02: CSS Styling
+  - Chapter 03: Optimizing Fonts and Images
+  - Chapter 04: Creating Layouts and Pages
+  - Chapter 05: Navigating Between Pages
+  - Chapter 06: Setting Up Your Database
+  - Chapter 07: Fetching Data
+  - Chapter 08: Static and Dynamic Rendering
   - Chapter 09: 
   - Chapter 10: 
   - Chapter 11: 
