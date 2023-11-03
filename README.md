@@ -20,11 +20,11 @@
   - Chapter 06: Setting Up Your Database
   - Chapter 07: Fetching Data
   - Chapter 08: Static and Dynamic Rendering
-  - Chapter 09: 
-  - Chapter 10: 
-  - Chapter 11: 
-  - Chapter 12: 
-  - Chapter 13: 
-  - Chapter 14: 
-  - Chapter 15: 
-  - Chapter 16: 
+  - Chapter 09: Streaming
+  - Chapter 10: Partial Prerendering (Optional)
+  - Chapter 11: Adding Search and Pagination
+  - Chapter 12: Mutating Data
+  - Chapter 13: Handling Errors
+  - Chapter 14: Improving Accessibility
+  - Chapter 15: Adding Authentication
+  - Chapter 16: Adding Metadata
